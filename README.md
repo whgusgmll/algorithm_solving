@@ -18,3 +18,14 @@
 [exam]: <https://wikidocs.net/book/1>
 [goorm]: <https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python/>
 [practice]:<https://algolabs.modoo.at/?link=3b5d98fa&messageNo=1&mode=view&query=&queryType=0&myList=0&page=1>
+
+## beakjoon
+> beakjoon에서는 별찍기를 통하여 pyhton에서 기본적인 함수
+>for문, print, 함수 선언, range 등을 활용하여 기초를 잡았습니다.
+
+## exam
+>exam은 별찍기에서 조금 더 심화된 문법 문제를 풀며 
+>함수(set, list, dict) 등을 공부하였습니다.
+
+## goorm
+>python cos pro 2급 시험을 준비하며 
